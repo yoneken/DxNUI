@@ -2,6 +2,8 @@
 *.slo
 *.lo
 *.o
+Debug
+Release
 
 # Compiled Dynamic libraries
 *.so
@@ -10,3 +12,7 @@
 *.lai
 *.la
 *.a
+
+*.sdf
+*.vcxproj.filters
+*.vcxproj.user
